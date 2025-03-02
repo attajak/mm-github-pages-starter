@@ -1,4 +1,13 @@
+# GitHub-Pages (jekyll)
 _site
 .sass-cache
+.jekyll-cache
 .jekyll-metadata
 Gemfile.lock
+.bundle
+vendor
+
+# JavaScript
+package-lock.json
+node_modules
+jsconfig.json
